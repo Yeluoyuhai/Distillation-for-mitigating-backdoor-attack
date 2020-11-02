@@ -1,0 +1,6 @@
+*_model*/
+**/__pycache__/
+*results*/
+**/*.png
+**/*.pkl
+**/*egg-info/
